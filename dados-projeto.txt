@@ -1,0 +1,6 @@
+AIzaSyBBJZR70D9sOpTjQAo9Of3D31-9IU_FV3M
+
+chave banco:
+usuario: mariazinhasp
+senha: Freidurao336
+string conexão: mongodb+srv://mariazinhasp:Freidurao336@cluster0.2mxbg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
