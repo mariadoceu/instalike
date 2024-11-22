@@ -1,2 +1,2 @@
-# instalike
-Projeto de estudo JS + Conectando com MongoDB Atlas
+# Instalike
+Projeto de estudo utilizando Node JS, construindo uma API, que conectando com MongoDB Atlas.
